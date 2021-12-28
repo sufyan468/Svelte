@@ -5,6 +5,7 @@
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
+    "rollup": "rollup" ,
     "start": "PORT=3001 sirv static --no-clear"
   },
   "devDependencies": {
