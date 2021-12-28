@@ -22,9 +22,6 @@
 </main>
 
 <style>
-  a {
-    text-decoration: none !important;
-  }
   /* :global(body) {
     background-color: #040126;
     color: #0084f6;

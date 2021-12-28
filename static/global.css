@@ -30,6 +30,9 @@ body {
   background-color: #040126 !important;
   overflow-x: hidden;
 }
+a {
+  text-decoration: none !important;
+}
 /* .Logo {
   background-image: url("./Images/benalu.dev.svg");
 } */
